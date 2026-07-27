@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/raniaurooj/NeetCode-150/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/raniaurooj/NeetCode-150/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/raniaurooj/NeetCode-150/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/raniaurooj/NeetCode-150/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/raniaurooj/NeetCode-150/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/raniaurooj/NeetCode-150/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/raniaurooj/NeetCode-150/tree/master/0238-product-of-array-except-self) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/raniaurooj/NeetCode-150/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/raniaurooj/NeetCode-150/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/raniaurooj/NeetCode-150/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/raniaurooj/NeetCode-150/tree/master/0073-set-matrix-zeroes) |
 ## Union-Find
 |  |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/raniaurooj/NeetCode-150/tree/master/0048-rotate-image) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/raniaurooj/NeetCode-150/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
