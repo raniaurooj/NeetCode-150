@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/raniaurooj/NeetCode-150/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/raniaurooj/NeetCode-150/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/raniaurooj/NeetCode-150/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/raniaurooj/NeetCode-150/tree/master/0141-linked-list-cycle) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/raniaurooj/NeetCode-150/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/raniaurooj/NeetCode-150/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/raniaurooj/NeetCode-150/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/raniaurooj/NeetCode-150/tree/master/0141-linked-list-cycle) |
 ## Greedy
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/raniaurooj/NeetCode-150/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/raniaurooj/NeetCode-150/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/raniaurooj/NeetCode-150/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
