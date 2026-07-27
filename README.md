@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/raniaurooj/NeetCode-150/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/raniaurooj/NeetCode-150/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/raniaurooj/NeetCode-150/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/raniaurooj/NeetCode-150/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/raniaurooj/NeetCode-150/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/raniaurooj/NeetCode-150/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/raniaurooj/NeetCode-150/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/raniaurooj/NeetCode-150/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -86,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/raniaurooj/NeetCode-150/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/raniaurooj/NeetCode-150/tree/master/0206-reverse-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/raniaurooj/NeetCode-150/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/raniaurooj/NeetCode-150/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
