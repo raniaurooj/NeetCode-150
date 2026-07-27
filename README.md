@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/raniaurooj/NeetCode-150/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/raniaurooj/NeetCode-150/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/raniaurooj/NeetCode-150/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/raniaurooj/NeetCode-150/tree/master/0239-sliding-window-maximum) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raniaurooj/NeetCode-150/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/raniaurooj/NeetCode-150/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/raniaurooj/NeetCode-150/tree/master/0239-sliding-window-maximum) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/raniaurooj/NeetCode-150/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/raniaurooj/NeetCode-150/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/raniaurooj/NeetCode-150/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
