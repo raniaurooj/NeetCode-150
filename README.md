@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/raniaurooj/NeetCode-150/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/raniaurooj/NeetCode-150/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/raniaurooj/NeetCode-150/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/raniaurooj/NeetCode-150/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/raniaurooj/NeetCode-150/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/raniaurooj/NeetCode-150/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/raniaurooj/NeetCode-150/tree/master/0141-linked-list-cycle) |
+| [0347-top-k-frequent-elements](https://github.com/raniaurooj/NeetCode-150/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/raniaurooj/NeetCode-150/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/raniaurooj/NeetCode-150/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/raniaurooj/NeetCode-150/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/raniaurooj/NeetCode-150/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/raniaurooj/NeetCode-150/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -111,4 +115,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/raniaurooj/NeetCode-150/tree/master/0054-spiral-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/raniaurooj/NeetCode-150/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/raniaurooj/NeetCode-150/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/raniaurooj/NeetCode-150/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/raniaurooj/NeetCode-150/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
