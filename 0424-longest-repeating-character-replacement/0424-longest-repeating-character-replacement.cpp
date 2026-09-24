@@ -6,15 +6,18 @@ public:
         int subStr = 0;
         unordered_map<char, int> freq;
         int maxFreq = 0;
+        int change = 0; 
+
         for(end; end<s.length(); end++){
             freq[s[end]]++;
             maxFreq = max(maxFreq, freq[s[end]]);
-            if(((end - start + 1) - maxFreq) > k){
+            change = (end - start + 1) - maxFreq;
+            if( change > k){
                 subStr = max(subStr, end - start);
                 freq[s[start]]--;
                 start++;
             }
-            if((((end - start + 1) - maxFreq) <= k) && end == s.length()-1){
+            else if((change <= k) && end == s.length()-1){
                 subStr = max(subStr, end - start +1);
             }
             
